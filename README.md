@@ -1,8 +1,6 @@
-## Welcome to my world!
+<center><h1> Welcome to my world! </h1></center>
 
-![Dog Gif](https://78.media.tumblr.com/35eca59755c8f92171a033044faca60f/tumblr_p38fjmA9vh1v5s7ico1_500.gif)
-
-
+<center><img src=https://78.media.tumblr.com/35eca59755c8f92171a033044faca60f/tumblr_p38fjmA9vh1v5s7ico1_500.gif width="850px"></center>
 
 
 
